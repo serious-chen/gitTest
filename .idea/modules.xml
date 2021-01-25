@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gitTest.iml" filepath="$PROJECT_DIR$/.idea/gitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-parent.iml" filepath="$PROJECT_DIR$/learn-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trunk/trunk.iml" filepath="$PROJECT_DIR$/trunk/trunk.iml" />
     </modules>
   </component>
 </project>
